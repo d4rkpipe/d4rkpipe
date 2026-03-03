@@ -51,10 +51,10 @@ counting of visitors to this page in this section started from March 03, 2026
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=n1kodev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="n1kodev's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=n1kodev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=n1kodev's%20GitHub%20Stats" alt="n1kodev's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1kodev&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1kodev&layout=compact&theme=radical&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
