@@ -1,63 +1,109 @@
-## Hi there 👋
+<div align="center">
 
-- 👋 Hi, I'm **Nozimjon Hamdamov** (**n1kodev**). Graduated from **Amity University in Tashkent**.
-- 🧑‍💻 A Backend Developer and AI Engineer living in **Tashkent, Uzbekistan**. Working at **Jett** as an **AI Engineer**.
-- 🔭 I'm currently focused on **Backend Development**, **Artificial Intelligence** and **Machine Learning**.
-- 🌱 I'm currently learning new AI/ML frameworks and improving my backend architecture skills.
-- 🤝 I am open to collaboration on interesting backend and AI projects.
-- 📬 How to reach me: [nozimjon_hamdamov](https://t.me/nozimjon_hamdamov) on Telegram or [LinkedIn](https://www.linkedin.com/in/nozimjon-hamdamov-3a03b7224/)
-- 🐦 Follow me on [X (@nozim_hamdamov)](https://x.com/nozim_hamdamov) and [Instagram (nozimjon_hamdamov)](https://instagram.com/nozimjon_hamdamov)
-- 💼 Recently, I have been looking for jobs related to Backend and AI. If there is a suitable job opportunity, please feel free to reach out via Telegram. I will respond at the earliest convenience after receiving your message
+# Nozimjon Hamdamov
 
-## Technologies 💻
+**`Backend Developer & AI Engineer`**
 
-<p align="left">
-  <a href="https://www.python.org"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></a>
-  <a href="https://www.djangoproject.com"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /></a>
-  <a href="https://fastapi.tiangolo.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="65" height="65" /></a>
-  <a href="https://flask.palletsprojects.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="65" height="65" /></a>
-  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" /></a>
-  <a href="https://www.mysql.com"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></a>
-  <a href="https://www.mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" /></a>
-  <a href="https://redis.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="65" height="65" /></a>
-  <a href="https://nginx.org"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" /></a>
-</p>
-<p align="left">
-  <a href="https://www.docker.com"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" /></a>
-  <a href="https://kubernetes.io"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" /></a>
-  <a href="https://www.linux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" /></a>
-  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" /></a>
-  <a href="https://github.com"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></a>
-  <a href="https://www.javascript.com"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></a>
-  <a href="https://www.typescriptlang.org"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /></a>
-  <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" /></a>
-  <a href="https://pytorch.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" /></a>
-</p>
-<p align="left">
-  <a href="https://www.tensorflow.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" /></a>
-  <a href="https://aws.amazon.com"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /></a>
-  <a href="https://kafka.apache.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="65" height="65" /></a>
-  <a href="https://rabbitmq.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="65" height="65" /></a>
-  <a href="https://graphql.org"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" /></a>
-  <a href="https://www.sqlite.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="65" height="65" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/nozimjon-hamdamov-3a03b7224/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/nozim_hamdamov">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/nozimjon_hamdamov">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/nozimjon_hamdamov">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
-## Profile Views
+<img src="https://komarev.com/ghpvc/?username=n1kodev&color=0A66C2&style=flat-square&label=Profile+Views" />
 
-counting of visitors to this page in this section started from March 03, 2026
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=n1kodev&color=1a1b27&style=for-the-badge&label=PROFILE+VIEWS)
+---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=n1kodev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=n1kodev's%20GitHub%20Stats" alt="n1kodev's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1kodev&layout=compact&theme=radical&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
+### 🧑‍💻 About Me
+
+I'm a **Backend Developer** and **AI Engineer** based in Tashkent, Uzbekistan. Currently working at **Jett** where I build intelligent backend systems and AI-powered solutions. I graduated from **Amity University in Tashkent** and have been professionally developing software with a focus on scalable backend architectures and machine learning applications.
+
+- 🔭 Currently focused on **Backend Development**, **Artificial Intelligence** & **Machine Learning**
+- 🌱 Exploring advanced **AI/ML frameworks** and **system design patterns**
+- 🤝 Open to collaborating on **backend** and **AI** projects
+- 📬 Reach me on **[Telegram](https://t.me/nozimjon_hamdamov)** — I'll respond promptly
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Backend & Frameworks**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Messaging & APIs**
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Inbooks Print Bot**](https://github.com/n1kodev/Inbooks-print-telegram-bot) | Telegram bot for book printing service automation | Python, Telegram API |
+| [**DGD Consulting**](https://github.com/n1kodev/DGD-Consulting) | Consulting company web platform | Python, Web |
+| [**Fitora App**](https://github.com/n1kodev/Fitora-App) | Fitness tracking application | Python, Mobile |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n1kodev&theme=github_dark" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n1kodev&theme=github_dark" height="170" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=n1kodev&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
@@ -66,3 +112,9 @@ counting of visitors to this page in this section started from March 03, 2026
 </picture>
 
 ![Metrics](./github-metrics.svg)
+
+---
+
+<div align="center">
+  <i>Let's connect and build something great together!</i>
+</div>
