@@ -27,7 +27,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **Backend Developer** and **AI Engineer** based in Tashkent, Uzbekistan. Currently working at **Jett** where I build intelligent backend systems and AI-powered solutions. I graduated from **Amity University in Tashkent** and have been professionally developing software with a focus on scalable backend architectures and machine learning applications.
+I'm a **Backend Developer** and **AI Engineer** based in Tashkent, Uzbekistan. Currently working at **MULTIBROKER** where I build intelligent backend systems and AI-powered solutions. I graduated from **Amity University in Tashkent** and have been professionally developing software with a focus on scalable backend architectures and machine learning applications.
 
 - 🔭 Currently focused on **Backend Development**, **Artificial Intelligence** & **Machine Learning**
 - 🌱 Exploring advanced **AI/ML frameworks** and **system design patterns**
