@@ -94,8 +94,8 @@ I'm a **Backend Developer** and **AI Engineer** based in Tashkent, Uzbekistan. C
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n1kodev&theme=github_dark" height="170" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n1kodev&theme=github_dark" height="170" />
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" height="170" />
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="170" />
 
 <br/>
 
