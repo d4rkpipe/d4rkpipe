@@ -1,0 +1,23 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    # Har kuni soat 00:00 UTC da ishga tushadi
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Qo'lda ham ishga tushirish mumkin
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Summary Cards
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 5 # Toshkent vaqti (UTC+5)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
