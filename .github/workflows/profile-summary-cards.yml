@@ -6,6 +6,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch: # Qo'lda ham ishga tushirish mumkin
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
