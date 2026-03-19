@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6E40C9&height=200&section=header&text=Nozimjon%20Hamdamov&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%26%20AI%20Engineer&descAlignY=58&descColor=aaaaaa" />
+# Nozimjon Hamdamov
+
+**`Backend Developer & AI Engineer`**
 
 <p>
   <a href="https://www.linkedin.com/in/nozimjon-hamdamov-3a03b7224/">
@@ -112,8 +114,6 @@ I'm a **Backend Developer** and **AI Engineer** based in Tashkent, Uzbekistan. C
 ![Metrics](./github-metrics.svg)
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:0A66C2&height=100&section=footer" />
 
 <div align="center">
   <i>Let's connect and build something great together!</i>
