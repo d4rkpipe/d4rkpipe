@@ -1,8 +1,6 @@
 <div align="center">
 
-# Nozimjon Hamdamov
-
-**`Backend Developer & AI Engineer`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6E40C9&height=200&section=header&text=Nozimjon%20Hamdamov&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%26%20AI%20Engineer&descAlignY=58&descColor=aaaaaa" />
 
 <p>
   <a href="https://www.linkedin.com/in/nozimjon-hamdamov-3a03b7224/">
@@ -19,7 +17,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=n1kodev&color=0A66C2&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=d4rkpipe&color=0A66C2&style=flat-square&label=Profile+Views" />
 
 </div>
 
@@ -84,9 +82,9 @@ I'm a **Backend Developer** and **AI Engineer** based in Tashkent, Uzbekistan. C
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Inbooks Print Bot**](https://github.com/n1kodev/Inbooks-print-telegram-bot) | Telegram bot for book printing service automation | Python, Telegram API |
-| [**DGD Consulting**](https://github.com/n1kodev/DGD-Consulting) | Consulting company web platform | Python, Web |
-| [**Fitora App**](https://github.com/n1kodev/Fitora-App) | Fitness tracking application | Python, Mobile |
+| [**Inbooks Print Bot**](https://github.com/d4rkpipe/Inbooks-print-telegram-bot) | Telegram bot for book printing service automation | Python, Telegram API |
+| [**DGD Consulting**](https://github.com/d4rkpipe/DGD-Consulting) | Consulting company web platform | Python, Web |
+| [**Fitora App**](https://github.com/d4rkpipe/Fitora-App) | Fitness tracking application | Python, Mobile |
 
 ---
 
@@ -99,7 +97,7 @@ I'm a **Backend Developer** and **AI Engineer** based in Tashkent, Uzbekistan. C
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=n1kodev&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkpipe&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -114,6 +112,8 @@ I'm a **Backend Developer** and **AI Engineer** based in Tashkent, Uzbekistan. C
 ![Metrics](./github-metrics.svg)
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:0A66C2&height=100&section=footer" />
 
 <div align="center">
   <i>Let's connect and build something great together!</i>
